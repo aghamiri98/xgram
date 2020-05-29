@@ -6,7 +6,7 @@ this is unofficial Telegram source code based on telegram Api
 This repo contains the official source code for [Telegram App for Android](https://play.google.com/store/apps/details?id=org.telegram.messenger).
 
 
-###Features:
+### Features:
 1. Categories chat dialog
 1. Ghost mode
 2. Advanced Forward
