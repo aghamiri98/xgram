@@ -1,4 +1,4 @@
-## xgram
+## xgram - This is an example and is related to the old version of Telegram
 
 this is unofficial Telegram source code based on telegram Api
 
